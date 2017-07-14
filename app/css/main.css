@@ -178,7 +178,6 @@
   float: left; }
   .field .allert .fa-exclamation-triangle {
     display: block;
-    background: url("../img/icons/error.svg");
     background-size: 100%;
     width: 25px;
     height: 25px; }
